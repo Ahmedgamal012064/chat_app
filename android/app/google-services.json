@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "731364864593",
+    "project_id": "sataexpress-86fce",
+    "storage_bucket": "sataexpress-86fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731364864593:android:4bf1ea66f6b36b61217e70",
+        "android_client_info": {
+          "package_name": "com.example.chat_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731364864593-d4lp09sv6lm5krm2e0jr5mpkilm5oj1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPEGopOEwFLEZifysjnXc72ErwBd8Y_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731364864593-d4lp09sv6lm5krm2e0jr5mpkilm5oj1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731364864593-aoslif5tp5016uniqpirne3k8ctt8r5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twotech.satadelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731364864593:android:ba4778cf6c531894217e70",
+        "android_client_info": {
+          "package_name": "com.twotech.satadelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731364864593-d4lp09sv6lm5krm2e0jr5mpkilm5oj1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPEGopOEwFLEZifysjnXc72ErwBd8Y_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731364864593-d4lp09sv6lm5krm2e0jr5mpkilm5oj1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731364864593-aoslif5tp5016uniqpirne3k8ctt8r5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twotech.satadelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731364864593:android:f7f34c2eb746a4bc217e70",
+        "android_client_info": {
+          "package_name": "com.twotech.sataexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731364864593-d4lp09sv6lm5krm2e0jr5mpkilm5oj1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPEGopOEwFLEZifysjnXc72ErwBd8Y_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731364864593-d4lp09sv6lm5krm2e0jr5mpkilm5oj1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731364864593-aoslif5tp5016uniqpirne3k8ctt8r5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twotech.satadelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
